@@ -17,7 +17,7 @@ composer require --prefer-dist geksor/yii2-adminlte "*"
 or add the following to the `require` section of your `composer.json`
 
 ```json
-"yiister/yii2-adminlte": "*"
+"geksor/yii2-adminlte": "*"
 ```
 ## Demonstration
 
